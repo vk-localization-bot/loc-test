@@ -1,0 +1,15 @@
+"vkpp_cancel" = "Cancel";
+"vkpp_reset" = "Reset";
+"vkpp_done" = "Done";
+"vkpp_next" = "Next";
+"vkpp_crop" = "Crop";
+"vkpp_camera_roll" = "Camera Roll";
+"vkpp_no_access_title" = "Photos Access Disabled";
+"vkpp_no_access_text" = "You can enable access in\n Privacy settings";
+"vkpp_no_access_text_ios5" = "Enable access to geolocation in\nLocation Services settings";
+"vkpp_forced_crop" = "Select Area";
+"vkpp_albums" = "Albums";
+"vkpp_open_system_settings" = "Open Settings";
+"vkpp_camera_access_denied" = "Camera access disabled";
+"vkpp_camera_access_denied_message_short" = "To take pictures you must enable it in Application settings.";
+"vkpp_camera_access_denied_message_long" = "You can enable it in Settings -> VK -> Camera.";
